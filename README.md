@@ -11,10 +11,10 @@ Backend and any ai model were created by Mateusz Galińki (me)
 
 This program came as a reult of group's design efforts. The group conited of following people:
 
-Mateusz Galiński (Backend and AI) 
-Jane Schönfeld (Frontend)
-Nikki Waterschoot (Design)
-Sergi Forga Luna (Electronics)
+Mateusz Galiński (Backend and AI)  
+Jane Schönfeld (Frontend)  
+Nikki Waterschoot (Design)  
+Sergi Forga Luna (Electronics)  
 
 Thi project is a WebApplication that serves as a guide of an AI Lab of OsloMet that can answer questions about 
 research, researchers and events happening at the AI Lab using natural language.
